@@ -1,0 +1,13 @@
+  01Pwskills  ->  Not Correct
+
+
+  _FLOAT  ->  Correct
+
+
+  int  ->  Not Correct
+
+
+  FLOAT   ->  Correct
+
+
+ You will succeed  ->  Not Correct
